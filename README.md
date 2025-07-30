@@ -37,6 +37,15 @@ I’m working on a research project focused on **rehabilitating comatose patient
   - Admin page for managing books and users
 - 🔍 Shifted architecture from pure JSP to **Servlet-backed JSP** pages for scalability
 
+### 🔐 Password Strength Checker
+
+- 🌟 Minimalistic, responsive **frontend app** to evaluate password strength
+- 🧠 Uses client-side **JavaScript** to detect complexity (length, caps, numbers, symbols)
+- 🎨 UI inspired by hover-based web design patterns
+- 📱 Fully responsive for mobile
+- 📤 Hosted on **GitHub Pages**: [Live Demo 🔗](https://yourusername.github.io/password-checker/)
+- 📂 Tech: `HTML`, `CSS`, `JavaScript`, no frameworks
+
 ---
 
 ## 🛡️ Privacy & Digital Ethics

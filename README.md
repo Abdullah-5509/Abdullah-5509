@@ -43,7 +43,7 @@ I’m working on a research project focused on **rehabilitating comatose patient
 - 🧠 Uses client-side **JavaScript** to detect complexity (length, caps, numbers, symbols)
 - 🎨 UI inspired by hover-based web design patterns
 - 📱 Fully responsive for mobile
-- 📤 Hosted on **GitHub Pages**: [Live Demo 🔗](https://yourusername.github.io/password-checker/)
+- 📤 Hosted on **GitHub Pages**: [Live Demo 🔗](https://abdullah-5509.github.io/Password-Check/)
 - 📂 Tech: `HTML`, `CSS`, `JavaScript`, no frameworks
 
 ---
